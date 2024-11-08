@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kyuhy\\Documents\\form\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87DE1181-5770-4F62-A00A-937542CF183B}|form\\form.csproj|c:\\users\\kyuhy\\documents\\form\\form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DE1181-5770-4F62-A00A-937542CF183B}|form\\form.csproj|solutionrelative:form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DE1181-5770-4F62-A00A-937542CF183B}|form\\form.csproj|C:\\Users\\kyuhy\\Documents\\form\\form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87DE1181-5770-4F62-A00A-937542CF183B}|form\\form.csproj|solutionrelative:form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DE1181-5770-4F62-A00A-937542CF183B}|form\\form.csproj|C:\\Users\\kyuhy\\Documents\\form\\form\\operaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DE1181-5770-4F62-A00A-937542CF183B}|form\\form.csproj|solutionrelative:form\\operaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DE1181-5770-4F62-A00A-937542CF183B}|form\\form.csproj|C:\\Users\\kyuhy\\Documents\\form\\form\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DE1181-5770-4F62-A00A-937542CF183B}|form\\form.csproj|solutionrelative:form\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DE1181-5770-4F62-A00A-937542CF183B}|form\\form.csproj|C:\\Users\\kyuhy\\Documents\\form\\form\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DE1181-5770-4F62-A00A-937542CF183B}|form\\form.csproj|solutionrelative:form\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kyuhy\\Documents\\form\\form\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "form\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\kyuhy\\Documents\\form\\form\\Form1.Designer.cs",
+              "RelativeToolTip": "form\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:36:59.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\kyuhy\\Documents\\form\\form\\Form1.cs",
+              "RelativeDocumentMoniker": "form\\Form1.cs",
+              "ToolTip": "C:\\Users\\kyuhy\\Documents\\form\\form\\Form1.cs",
+              "RelativeToolTip": "form\\Form1.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:37:18.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "operaciones.cs",
+              "DocumentMoniker": "C:\\Users\\kyuhy\\Documents\\form\\form\\operaciones.cs",
+              "RelativeDocumentMoniker": "form\\operaciones.cs",
+              "ToolTip": "C:\\Users\\kyuhy\\Documents\\form\\form\\operaciones.cs",
+              "RelativeToolTip": "form\\operaciones.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAADgv0UAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:38:28.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "conexion.cs",
+              "DocumentMoniker": "C:\\Users\\kyuhy\\Documents\\form\\form\\conexion.cs",
+              "RelativeDocumentMoniker": "form\\conexion.cs",
+              "ToolTip": "C:\\Users\\kyuhy\\Documents\\form\\form\\conexion.cs",
+              "RelativeToolTip": "form\\conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:29:15.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\kyuhy\\Documents\\form\\form\\Form1.cs",
+              "RelativeDocumentMoniker": "form\\Form1.cs",
+              "ToolTip": "C:\\Users\\kyuhy\\Documents\\form\\form\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "form\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:13:03.606Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
