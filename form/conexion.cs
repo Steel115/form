@@ -11,7 +11,8 @@ namespace form
 {
     public class conexion
     {
-        private string connectionString = "Server=localhost; Database=SISTEMAS; Integrated Security=True;";
+        
+        private string connectionString = "Server=192.168.205.15; Database=SISTEMAS;User id=sa; Password=1234;";
         public SqlConnection ObtenerConexion()
         {
             SqlConnection connection=new SqlConnection(connectionString);

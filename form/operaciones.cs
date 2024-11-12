@@ -49,7 +49,7 @@ namespace form
         {
             using (var connection = conexionBD.ObtenerConexion())
             {
-                string query = "UPDATE Personas SET Nombre=@Nombre,Departamento=@Departamento,Profesion=@Profesion,Edad=@Edad";
+                string query = "UPDATE Personas SET Nombre=@Nombre,Departamento=@Departamento,Profesion=@Profesion,Edad=@Edad WHERE id=@Id";
                     SqlCommand command = new SqlCommand(query, connection);
                 command.Parameters.AddWithValue("@Id", id);
                 command.Parameters.AddWithValue("@Nombre", nombre);
